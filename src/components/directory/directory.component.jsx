@@ -1,5 +1,4 @@
 import { Component } from "react";
-
 import MenuItem from "../menu-items/menu-item.component";
 import "./directory.styles.scss";
 
@@ -38,11 +37,11 @@ class Directory extends Component {
           linkUrl: "shop/babies",
         },
         {
-          title: "oxfords",
+          title: "shoes",
           imageUrl:
             "https://cdn.pixabay.com/photo/2016/11/19/11/33/footwear-1838767_960_720.jpg",
           id: 5,
-          linkUrl: "shop/oxfords",
+          linkUrl: "shop/shoes",
         },
         {
           title: "shades",
